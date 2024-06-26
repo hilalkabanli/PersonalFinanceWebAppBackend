@@ -1,0 +1,6 @@
+@PersonalFinanceWebApp_HostAddress = http://localhost:5261
+
+GET {{PersonalFinanceWebApp_HostAddress}}/Users/
+Accept: application/json
+
+###

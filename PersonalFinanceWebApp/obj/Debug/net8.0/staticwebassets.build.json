@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "234qIa6xBW0psbr1IAda/DQISO1ZkuJjfyPTP30POGc=",
+  "Source": "PersonalFinanceWebApp",
+  "BasePath": "_content/PersonalFinanceWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
