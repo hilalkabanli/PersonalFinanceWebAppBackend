@@ -22,14 +22,4 @@ Below diagram shows basic relationship between tables
 
 <img width="500" alt="Screenshot 2024-06-26 at 03 46 54" src="https://github.com/hilalkabanli/PersonalFinanceWebApplication/assets/72991038/972ea5e0-3100-473c-857c-672234e97fa4">
 
-This is the folder structure of app
-
-<img width="278" alt="Screenshot 2024-06-26 at 03 48 30" src="https://github.com/hilalkabanli/PersonalFinanceWebApplication/assets/72991038/86c4943e-cdf7-4d52-9e52-204e0acd4058">
-
-Tech Stack
-
-Backend: Asp.Net
-
-Frontend: React 
-
-Database: Microsoft SQL Server 
+<img width="1171" alt="Screenshot 2024-06-28 at 11 35 02" src="https://github.com/hilalkabanli/PersonalFinanceWebAppBackend/assets/72991038/9d1b4381-0728-4848-9551-e0c458cf6349">
